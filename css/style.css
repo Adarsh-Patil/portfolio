@@ -32,7 +32,7 @@ html::-webkit-scrollbar-thumb{
 
 body{
 	background: #eee;
-	padding-right: 5rem;
+	/* padding-right: 5rem; */
 }
 section{
 	padding:2rem 9%;
